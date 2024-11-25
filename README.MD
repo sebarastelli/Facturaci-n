@@ -2,7 +2,7 @@
 
 A full-stack application designed to manage products, clients, and billing. This project is divided into two parts:
 - **Frontend**: Built with React and styled using Tailwind CSS.
-- **Backend**: Powered by Node.js and Express.
+- **Backend**: Powered by Nest.js.
 
 ## Table of Contents
 - [Features](#features)
@@ -10,10 +10,8 @@ A full-stack application designed to manage products, clients, and billing. This
 - [Installation](#installation)
   - [Frontend](#frontend-setup)
   - [Backend](#backend-setup)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Future Improvements](#future-improvements)
-- [License](#license)
+
 
 ---
 
@@ -33,9 +31,8 @@ A full-stack application designed to manage products, clients, and billing. This
 - **Tailwind CSS**
 
 ### Backend:
-- **Node.js**
-- **Express**
-- **SQLite** (or any other database in use)
+- **Nest.js**
+- **SQLite**
 
 ---
 
